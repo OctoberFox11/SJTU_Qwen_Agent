@@ -1,0 +1,5 @@
+dashscope==1.19.1
+numpy==2.0.0
+openai==1.35.14
+python-dotenv==1.0.1
+Requests==2.32.3
